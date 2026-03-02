@@ -16,7 +16,6 @@ The goal of this project is to understand the fundamentals of steganography thro
 ## Technology Stack
 - Python 3.x
 - PyPDF2
-- argparse
 - Jupyter Notebook
 
 
