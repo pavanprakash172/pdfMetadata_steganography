@@ -22,11 +22,15 @@ The goal of this project is to understand the fundamentals of steganography thro
 
 ## Installation
 Clone the repository:
+```bash
 git clone https://github.com/pavanprakash172/pdfMetadata_steganography.git
-cd pdfMetadata_steganography 
+cd pdfMetadata_steganography
+```
 
-Install dependencies:
+Install dependency:
+```bash
 pip install PyPDF2
+```
 
 
 ## Usage
