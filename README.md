@@ -41,9 +41,5 @@ pip install PyPDF2
 
 
 
-## Disclaimer
-This project is intended for educational purposes only.
-
-
 ## Author
 Pavan Prakash S
